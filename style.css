@@ -35,13 +35,13 @@ ul {
 }
 
 ol li {
-  background: green;
+  background: yellow;
   padding: 5px;
   margin-left: 35px;
 }
 
 ul li {
-  background: brown;
+  background: #ccffcc;
   margin: 5px;
 }
 
