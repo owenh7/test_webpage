@@ -2,6 +2,9 @@ h1 {
   color: blueviolet;
   background: orange;
 }
+h2 {
+  background: purple;
+}
 
 body {
    background: pink;
