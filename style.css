@@ -20,7 +20,7 @@ img {
 }
 
 ul.a {
-  list-style-type: lower-alpha;
+  list-style-type: square;
 }
 
 a:link {
