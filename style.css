@@ -20,8 +20,9 @@ img {
 }
 
 ul {
-  list-style-type: upper-roman;
-  list-style-position: outside;
+  list-style-type: square;
+  background: green;
+  padding: 20px;
 }
 
 a:link {
