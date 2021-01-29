@@ -19,4 +19,14 @@ a:link {
   background-color: white;
 }
   
+a:visited {
+  background-color: cyan;
+}
 
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
+} 
