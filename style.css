@@ -24,20 +24,9 @@ img {
   border: 4px solid black;
 }
 
-ol {
-  background: green;
-  padding: 20px;
-}
-
 ul {
   background: #ccffcc;
   padding: 20px;
-}
-
-ol li {
-  background: yellow;
-  padding: 5px;
-  margin-left: 35px;
 }
 
 ul li {
