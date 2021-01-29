@@ -19,6 +19,10 @@ img {
   border: 4px solid black;
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
 a:link {
   background-color: white;
 }
