@@ -15,8 +15,8 @@ p {
   background: dodgerblue;
 }
 
-a {
-  background: white;
+a:link {
+  background-color: white;
 }
   
 
